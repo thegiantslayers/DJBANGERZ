@@ -1404,7 +1404,7 @@ pre {
 .cid-qnv5IvB4gK {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-color: #232323;
+  background-color: #ffffff;
 }
 .cid-qnv5IvB4gK .display-7,
 .cid-qnv5IvB4gK .form-text {
@@ -1497,8 +1497,11 @@ pre {
   font-family: 'Oswald', sans-serif;
 }
 .cid-qnv5IvB4gK .display-7 {
-  color: #ffffff;
+  color: #232323;
 }
 .cid-qnv5IvB4gK .copyright .mbr-text {
-  color: #ffffff;
+  color: #232323;
+}
+.cid-qnv5IvB4gK .form-text {
+  color: #232323;
 }
