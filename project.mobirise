@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Site-06-24_1617",
+    "name": "DJ BANGERZ",
     "currentPage": "LandingPage.html",
     "theme": {
       "name": "mobirise4",
@@ -28,7 +28,11 @@
     },
     "versionFirst": "4.0.6",
     "uniqCompNum": 24,
-    "versionPublish": "4.0.6"
+    "versionPublish": "4.0.6",
+    "favicon": "@PROJECT_PATH@/assets/images/img-3690-128x128.png",
+    "noImageResize": "",
+    "cookiesAlert": "",
+    "google-analytics": ""
   },
   "pages": {
     "LandingPage.html": {
