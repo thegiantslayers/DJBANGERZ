@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "DJ BANGERZ",
-    "currentPage": "RecentEvents.html",
+    "currentPage": "Home.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -38,8 +38,8 @@
     "Home.html": {
       "settings": {
         "main": true,
-        "title": "",
-        "meta_descr": "",
+        "title": "HOME ",
+        "meta_descr": "THE CRIB ",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
