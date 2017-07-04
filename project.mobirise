@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "DJ BANGERZ",
-    "currentPage": "Home.html",
+    "currentPage": "RecentEvents.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -668,8 +668,8 @@
     },
     "AboutDJBangerz.html": {
       "settings": {
-        "title": "Site Builder Title",
-        "meta_descr": "Site Builder Description"
+        "title": "About DJ BANGERZ",
+        "meta_descr": "THE 411 ON DJ BANGERZ "
       },
       "components": [
         {
@@ -1233,8 +1233,8 @@
     },
     "Services.html": {
       "settings": {
-        "title": "Site Creator Title",
-        "meta_descr": "Site Creator Description"
+        "title": "SERVICES ",
+        "meta_descr": "DJ BANGERZ SERVICES "
       },
       "components": [
         {
@@ -1948,8 +1948,8 @@
     },
     "RecentEvents.html": {
       "settings": {
-        "title": "Site Maker Title",
-        "meta_descr": "Site Maker Description"
+        "title": "RECENT EVENTS ",
+        "meta_descr": "RECENT EVENTS BY DJ BANGERZ "
       },
       "components": [
         {
